@@ -1,4 +1,4 @@
-# DoThis Task Management App
+## DoThis
 
 DoThis is a task management app developed using Kotlin and Room Database SQLite. It provides a seamless and efficient way to organize and prioritize tasks. With features like task creation, editing and deleting, DoThis ensures productivity and organization.
 
